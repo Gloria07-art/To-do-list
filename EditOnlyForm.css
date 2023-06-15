@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css?family=Geologica:wght@300;400;500;600;700&dispaly=swap');
+
+
+input {
+  padding-right: 110px;
+  padding-bottom: 40px;
+}
+
+h2 {
+margin-top: 100px;
+font-family: Verdana, Tahoma, sans-serif;
+}
+
+button{
+    padding: 40px;
+    padding-left: 80px;
+    padding-right: 80px;
+    font-family: 'Geologica';
+    background-color: rgba(118, 98, 62, 0.563);
+    box-Shadow: rgb(4px, 8px, 16px);
+}
+
+
+.well {
+    background-image: url(./assets/abstract-kaleidoscope-background-beautiful-kaleidoscope-seamless-pattern-multicolor-mosaic-texture-seamless-kaleidoscope-texture-unique-kaleidoscope-design-vector.jpg);
+    background-color:rgba(177, 171, 147, 0.028);
+    
+}
+
+
+  h1{
+    
+    margin-bottom: 20px;
+    font-size: 80px;
+    font-family: 'Geologica', sans-serif;
+    text-shadow: black;
+    background-color:rgba(177, 171, 147, 0.028);
+  }
+
+  .divide{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: right;
+    align-items: center;
+    border-radius: 80px;
+  }
+
+  h3{
+    align-items: left;
+    font-family: 'Geologica', sans-serif;
+    font-weight: lighter;
+    
+  }
+
+  .box {
+    padding: 50px;
+  }
