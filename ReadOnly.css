@@ -27,7 +27,17 @@ h1{
   }
   
 
-center {
-margin-top: 100px;
+.mandel {
+margin-top: 260px;
 font-family: Verdana, Tahoma, sans-serif;
   }
+
+
+.log{
+     
+    margin-bottom: 20px;
+    font-size: 40px;
+    font-family: 'Geologica', sans-serif;
+    text-shadow: black;
+    background-color:rgba(177, 171, 147, 0.028);
+}
