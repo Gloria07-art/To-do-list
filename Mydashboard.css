@@ -1,0 +1,53 @@
+.divide{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: right;
+    align-items: center;
+    border-radius: 80px;
+  }
+
+  .top{
+    margin-top: 10px;
+  }
+
+  .words{
+    font-size: 15px;
+  }
+
+  .smallb{
+    padding:15px;
+   margin-left: 30px;
+   
+  }
+
+  .back {
+background-image: url(./assets/abstract-kaleidoscope-background-beautiful-kaleidoscope-seamless-pattern-multicolor-mosaic-texture-seamless-kaleidoscope-texture-unique-kaleidoscope-design-vector.jpg);
+display: flex; 
+flex-direction: column;
+justify-content: center;
+gap: 20px;
+padding: 10rem;
+}
+
+.out{
+  margin-top: 40%;
+  border-radius: 90px;
+  padding: 15px;
+  background-color: brown;
+}
+
+.adder{
+
+
+}
+
+.delete{
+
+
+}
+
+.edit-button{
+
+
+}
